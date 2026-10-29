@@ -1,4 +1,4 @@
-# 100 Days of Code — C Programming
+# 100 Days of Code- C Programming
 
 My work for the **100 Days of Code in C** challenge set as part of the first-year
 curriculum at **UPES Dehradun**.
@@ -22,6 +22,8 @@ gcc "Day 1/Q1 (User Inputs, Operations & Output).c" -o q1 && ./q1
 
 ## Progress
 
+Solutions through **Day 79 (30 October 2026), Q129**.
+
 | Questions | Topic | Days |
 |---|---|---|
 | Q1–Q10 | User Inputs, Operations & Output | 1–5 |
@@ -30,6 +32,10 @@ gcc "Day 1/Q1 (User Inputs, Operations & Output).c" -o q1 && ./q1
 | Q46–Q55 | Nested Loops without Arrays or Strings | 23–28 |
 | Q56–Q70 | Arrays (1D) | 28–35 |
 | Q71–Q80 | 2D Arrays | 36–40 |
+| Q81–Q100 | Strings | 41–50 |
+| Q101–Q119 | Logic Enhancers | 51–69 |
+| Q120 | String Case Conversion | 70 |
+| Q121–Q129 | File Handling | 71–79 |
 
 ## Challenge
 
